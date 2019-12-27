@@ -1,0 +1,15 @@
+.header {
+    height: 400px;
+  /*background: url('../../assets/img/slide.jpg');  */
+    margin-bottom: 100px;
+  }
+
+  .header h2 {
+      text-align: center;
+      line-height: 400px;
+      font-size: 48px;
+  }
+
+  .card {
+      width: 100%!important;
+  }
